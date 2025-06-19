@@ -1,6 +1,6 @@
 package com.example.auth_service.model;
 
-public enum UserRoles {
+public enum User {
     USER,
     VENDOR,
     DELIVERY,
